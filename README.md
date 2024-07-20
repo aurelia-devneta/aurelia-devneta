@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me aurelia.devneta@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: In Saudia Arabia, woman can ask for a divorce if their husbands don't poor coffee for them
+- ⚡ Fun fact: In Saudia Arabia, woman can ask for a divorce if their husbands don't pour coffee for them
 
 <!---
 aurelia-devneta/aurelia-devneta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
